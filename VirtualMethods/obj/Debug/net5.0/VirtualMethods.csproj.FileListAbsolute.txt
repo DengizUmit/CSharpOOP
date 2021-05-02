@@ -1,0 +1,16 @@
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\VirtualMethods.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\VirtualMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\VirtualMethods.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\bin\Debug\net5.0\VirtualMethods.exe
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\bin\Debug\net5.0\VirtualMethods.deps.json
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\bin\Debug\net5.0\VirtualMethods.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\bin\Debug\net5.0\VirtualMethods.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\bin\Debug\net5.0\VirtualMethods.dll
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\bin\Debug\net5.0\ref\VirtualMethods.dll
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\bin\Debug\net5.0\VirtualMethods.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\VirtualMethods.dll
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\ref\VirtualMethods.dll
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\VirtualMethods.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\VirtualMethods\obj\Debug\net5.0\VirtualMethods.genruntimeconfig.cache

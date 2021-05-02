@@ -1,0 +1,6 @@
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\Interfaces\obj\Debug\Interfaces.pdb

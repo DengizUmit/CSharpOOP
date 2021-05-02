@@ -1,0 +1,17 @@
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\bin\Debug\net5.0-windows\RecapDemo.exe
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\bin\Debug\net5.0-windows\RecapDemo.deps.json
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\bin\Debug\net5.0-windows\RecapDemo.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\bin\Debug\net5.0-windows\RecapDemo.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\bin\Debug\net5.0-windows\RecapDemo.dll
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\bin\Debug\net5.0-windows\ref\RecapDemo.dll
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\bin\Debug\net5.0-windows\RecapDemo.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.Form1.resources
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.csproj.GenerateResource.cache
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.dll
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\ref\RecapDemo.dll
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.pdb
+C:\Users\ÜmitDengiz\source\repos\CSharpSolution\RecapDemo\obj\Debug\net5.0-windows\RecapDemo.genruntimeconfig.cache
