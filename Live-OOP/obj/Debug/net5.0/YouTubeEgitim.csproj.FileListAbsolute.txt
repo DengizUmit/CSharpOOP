@@ -1,0 +1,16 @@
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.exe
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.deps.json
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.runtimeconfig.json
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.runtimeconfig.dev.json
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.dll
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\ref\YouTubeEgitim.dll
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\bin\Debug\net5.0\YouTubeEgitim.pdb
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.dll
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\ref\YouTubeEgitim.dll
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.pdb
+C:\Users\ÜmitDengiz\source\repos\YouTubeEgitim\YouTubeEgitim\obj\Debug\net5.0\YouTubeEgitim.genruntimeconfig.cache
